@@ -4,6 +4,7 @@ I work for [You.i TV](https://youi.tv) as an Application Architect helping clien
 
 - iOS
 - tvOS
+- Roku
 - Android
 - Android TV
 - FireTV
