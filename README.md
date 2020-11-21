@@ -14,6 +14,8 @@ I work for [You.i TV](https://youi.tv) as an Application Architect helping clien
 
 ### You.i Engine One Articles
 
+[Using recoiljs with You.i Engine One](https://johnwcassidy.medium.com/using-recoil-with-you-i-engine-one-d5454eb0db96)
+
 [You.i Engine One: Platorm Specific Video Players](https://johnwcassidy.medium.com/you-i-engine-one-platform-player-implementations-e7247c19ddab)
 
 [You.i Engine One Performance: Overdraw](https://medium.com/@johnwcassidy/you-i-engine-one-performance-overdraw-7c7c0d9f854e?source=friends_link&sk=deafdfd8f271678de54994726476b3b3)
