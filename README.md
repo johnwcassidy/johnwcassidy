@@ -5,6 +5,7 @@ I work as an Engineering Manager at [large media company], but I also like to wr
 ### Articles
 
 [The Architecture of Good User Flow](https://johnwcassidy.medium.com/the-architecture-of-good-user-flow-6d658c6e3111)
+
 [Building a Simple Stack Navigator with Flutter Navigation 2.0](https://johnwcassidy.medium.com/building-a-simple-stack-navigator-with-flutter-navigation-2-0-f11b55b71520)
 
 ### You.i Engine One Articles
