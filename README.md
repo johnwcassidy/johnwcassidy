@@ -1,18 +1,15 @@
 ## Hi there 👋
 
-I work for [You.i TV](https://youi.tv) as an Application Architect helping clients build their own OTT video streaming applications using React Native and You.i Engine One on the following platforms:
+I work as an Engineering Manager at [large media company], but I also like to write about Mobile App Development - specifically React Native and Flutter.
 
-- iOS
-- tvOS
-- Roku
-- Android
-- Android TV
-- FireTV
-- PlayStation 4
-- Xbox One
-- Tizen
+### Articles
+
+[The Architecture of Good User Flow](https://johnwcassidy.medium.com/the-architecture-of-good-user-flow-6d658c6e3111)
+[Building a Simple Stack Navigator with Flutter Navigation 2.0](https://johnwcassidy.medium.com/building-a-simple-stack-navigator-with-flutter-navigation-2-0-f11b55b71520)
 
 ### You.i Engine One Articles
+
+You.i Engine One is a cross platform SDK that utilizes React Native as a way to render beautiful over the top streaming applications on a wide variety of supported platforms.
 
 [Using recoiljs with You.i Engine One](https://johnwcassidy.medium.com/using-recoil-with-you-i-engine-one-d5454eb0db96)
 
