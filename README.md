@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I work as an Engineering Manager at [large media company], but I also like to write about Mobile App Development - specifically React Native and Flutter.
+I work as a Sr. Staff Software Developer at [large media company], but I also like to write about Mobile App Development - specifically React Native and Flutter.
 
 ### Articles
 
